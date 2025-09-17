@@ -66,20 +66,6 @@
 - 🔒 Security with environment variables and secrets management
 - 🤖 Automated deployment with **Makefile**
 
----
-
-### 📊 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bchokri&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bchokri&theme=radical&no-frame=true&column=6" alt="GitHub Trophies" />
-</div>
-
----
-
 ### 🏆 What I Bring
 
 ```javascript
