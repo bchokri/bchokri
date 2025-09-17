@@ -68,11 +68,14 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bchokri&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bchokri&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bchokri&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bchokri&theme=radical&no-frame=true&column=6" alt="GitHub Trophies" />
 </div>
 
 ---
